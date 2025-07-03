@@ -15,6 +15,7 @@ Está desarrollado usando:
 - Crear, editar, eliminar productos.
 - Listar productos disponibles.
 - Integración con base de datos mediante Hibernate.
+- Interactividad y dinamismo en la interfaz gracias a la integración con **JavaScript**.
 
 
 ## Tecnologías usadas
